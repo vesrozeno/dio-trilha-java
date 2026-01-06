@@ -6,7 +6,7 @@ Este repositório contém os projetos desenvolvidos ao longo da **trilha de Java
 
 ### 1. 🏦 Conta Banco
 
-Um projeto simples criado para praticar os conceitos básicos de entrada e saída de dados no Java.  
+Um projeto simples criado para praticar os conceitos básicos de entrada e saída de dados no Java.
 **Conceitos abordados:**
 
 - Declaração de variáveis
@@ -14,7 +14,7 @@ Um projeto simples criado para praticar os conceitos básicos de entrada e saíd
 - Exibição de mensagens com `System.out`
 - Manipulação de strings e números
 
-📂 Caminho: `/conta-banco`  
+📂 Caminho: `/conta-banco`
 📌 Status: Finalizado
 
 ---
@@ -30,7 +30,25 @@ Projeto prático para reforçar o uso de estruturas de controle, laços de repet
 - Criação e uso de exceções personalizadas
 - Lógica de iteração com base em entrada do usuário
 
-📂 Caminho: `/controle-fluxo`  
+📂 Caminho: `/controle-fluxo`
+📌 Status: Finalizado
+
+---
+
+### 3. 📱 UML iPhone
+
+Projeto desenvolvido com foco em **modelagem UML** e **aplicação de conceitos de orientação a objetos**, simulando as funcionalidades principais de um iPhone. A proposta foi representar, por meio de **interfaces e classes**, os comportamentos de um navegador web, reprodutor de música e telefone.
+
+O projeto utiliza **diagrama de classes UML**, modelado com a sintaxe **Mermaid**, para representar corretamente as relações entre classes e interfaces, seguindo boas práticas de design.
+
+**Conceitos abordados:**
+
+- Interfaces em Java
+- Implementação múltipla de interfaces
+- Modelagem UML (Diagrama de Classes)
+- Organização e estruturação de código orientado a objetos
+
+📂 Caminho: `/uml-iphone`
 📌 Status: Finalizado
 
 ---
