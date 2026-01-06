@@ -54,6 +54,5 @@ Sendo assim, uma classe `IPhone` implementa as 3 interfaces, enquanto uma classe
 - Separação de responsabilidades
 - Boas práticas de modelagem
 
-📂 Caminho: `/uml-iphone`
-
+📂 Caminho: `/uml-iphone`  
 📌 Status: Finalizado

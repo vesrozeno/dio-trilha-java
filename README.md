@@ -14,7 +14,7 @@ Um projeto simples criado para praticar os conceitos básicos de entrada e saíd
 - Exibição de mensagens com `System.out`
 - Manipulação de strings e números
 
-📂 Caminho: `/conta-banco`
+📂 Caminho: `/conta-banco`  
 📌 Status: Finalizado
 
 ---
@@ -30,7 +30,7 @@ Projeto prático para reforçar o uso de estruturas de controle, laços de repet
 - Criação e uso de exceções personalizadas
 - Lógica de iteração com base em entrada do usuário
 
-📂 Caminho: `/controle-fluxo`
+📂 Caminho: `/controle-fluxo`  
 📌 Status: Finalizado
 
 ---
@@ -48,7 +48,7 @@ O projeto utiliza **diagrama de classes UML**, modelado com a sintaxe **Mermaid*
 - Modelagem UML (Diagrama de Classes)
 - Organização e estruturação de código orientado a objetos
 
-📂 Caminho: `/uml-iphone`
+📂 Caminho: `/uml-iphone`  
 📌 Status: Finalizado
 
 ---
