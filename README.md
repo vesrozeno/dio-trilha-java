@@ -68,7 +68,7 @@ Durante o desenvolvimento, foram simuladas operações bancárias essenciais, ap
 - Polimorfismo para flexibilizar comportamentos em tempo de execução
 - Estruturação e organização do código seguindo princípios de POO
 
-📂 **Caminho:** `/4. banco-digital-poo`
+📂 **Caminho:** `/4. banco-digital-poo`  
 📌 **Status:** Finalizado ✅
 
 ---
