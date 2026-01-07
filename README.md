@@ -14,7 +14,7 @@ Um projeto simples criado para praticar os conceitos básicos de entrada e saíd
 - Exibição de mensagens com `System.out`
 - Manipulação de strings e números
 
-📂 Caminho: `/conta-banco`  
+📂 Caminho: `/1. conta-banco`  
 📌 Status: Finalizado
 
 ---
@@ -30,7 +30,7 @@ Projeto prático para reforçar o uso de estruturas de controle, laços de repet
 - Criação e uso de exceções personalizadas
 - Lógica de iteração com base em entrada do usuário
 
-📂 Caminho: `/controle-fluxo`  
+📂 Caminho: `/2. controle-fluxo`  
 📌 Status: Finalizado
 
 ---
@@ -48,8 +48,44 @@ O projeto utiliza **diagrama de classes UML**, modelado com a sintaxe **Mermaid*
 - Modelagem UML (Diagrama de Classes)
 - Organização e estruturação de código orientado a objetos
 
-📂 Caminho: `/uml-iphone`  
+📂 Caminho: `/3. uml-iphone`  
 📌 Status: Finalizado
+
+---
+
+Claro 🙂
+Vou deixar com mais **impacto**, mantendo um tom técnico, mas mais envolvente.
+
+---
+
+### 4. 💳 Banco Digital (POO)
+
+Desafio desenvolvido para **consolidar os principais conceitos de Programação Orientada a Objetos**, por meio da implementação das regras básicas de funcionamento de um **banco digital**.
+O foco do projeto foi transformar conceitos teóricos em **soluções práticas**, priorizando organização, reutilização de código e clareza na modelagem do domínio.
+
+Durante o desenvolvimento, foram simuladas operações bancárias essenciais, aplicando boas práticas de design orientado a objetos e separação de responsabilidades.
+
+**Conceitos explorados:**
+
+- Abstração para modelar entidades e comportamentos do domínio bancário
+- Interfaces para definição de contratos e padronização de funcionalidades
+- Herança para reaproveitamento e especialização de classes
+- Polimorfismo para flexibilizar comportamentos em tempo de execução
+- Estruturação e organização do código seguindo princípios de POO
+
+📂 **Caminho:** `/4. banco-digital-poo`
+📌 **Status:** Finalizado ✅
+
+---
+
+Se quiser, posso:
+
+- deixar mais **formal (estilo documentação técnica)**
+- deixar mais **casual (estilo GitHub portfolio)**
+- adaptar para **README de projeto**
+- ou enriquecer com **exemplos de classes/funcionalidades**
+
+Só dizer o objetivo 👍
 
 ---
 
