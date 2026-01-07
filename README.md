@@ -14,8 +14,7 @@ Um projeto simples criado para praticar os conceitos básicos de entrada e saíd
 - Exibição de mensagens com `System.out`
 - Manipulação de strings e números
 
-📂 Caminho: `/1. conta-banco`  
-📌 Status: Finalizado
+📂 Caminho: `/1. conta-banco`
 
 ---
 
@@ -30,8 +29,7 @@ Projeto prático para reforçar o uso de estruturas de controle, laços de repet
 - Criação e uso de exceções personalizadas
 - Lógica de iteração com base em entrada do usuário
 
-📂 Caminho: `/2. controle-fluxo`  
-📌 Status: Finalizado
+📂 Caminho: `/2. controle-fluxo`
 
 ---
 
@@ -48,8 +46,7 @@ O projeto utiliza **diagrama de classes UML**, modelado com a sintaxe **Mermaid*
 - Modelagem UML (Diagrama de Classes)
 - Organização e estruturação de código orientado a objetos
 
-📂 Caminho: `/3. uml-iphone`  
-📌 Status: Finalizado
+📂 Caminho: `/3. uml-iphone`
 
 ---
 
@@ -68,8 +65,28 @@ Durante o desenvolvimento, foram simuladas operações bancárias essenciais, ap
 - Polimorfismo para flexibilizar comportamentos em tempo de execução
 - Estruturação e organização do código seguindo princípios de POO
 
-📂 **Caminho:** `/4. banco-digital-poo`  
-📌 **Status:** Finalizado ✅
+📂 **Caminho:** `/4. banco-digital-poo`
+
+---
+
+### 5. 🧠 Abstraindo o Bootcamp
+
+Projeto para praticar conceitos de **abstração** e **orientação a objetos** através da modelagem de um Bootcamp com conteúdos (cursos e mentorias) e desenvolvedores que se inscrevem e concluem estes conteúdos.
+
+🔍 **O que foi desenvolvido**
+
+- **Classes principais:** `Content` (abstrata), `Course`, `Mentorship`, `Bootcamp`, `Dev` e `App` (classe com o método `main` que demonstra o fluxo).
+- **Fluxo implementado:** criação de cursos e mentorias; agrupamento em um `Bootcamp`; inscrição de `Dev` no bootcamp; progresso dos devs consumindo conteúdos e cálculo de XP acumulado.
+- **Coleções e datas:** uso de `Set` (com `LinkedHashSet` para manter ordem de inserção) e `LocalDate` para data de mentorias e duração do bootcamp.
+
+✅ **Conceitos explorados**
+
+- Abstração (classe abstrata `Content`)
+- Herança e polimorfismo (`Course` e `Mentorship` estendem `Content`)
+- Estruturas de dados (`Set`, `LinkedHashSet`, `HashSet`)
+- Encapsulamento e boas práticas de modelagem em Java
+
+📂 **Caminho:** `/5. abstraindo-bootcamp`
 
 ---
 

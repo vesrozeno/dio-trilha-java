@@ -1,0 +1,110 @@
+
+import java.time.LocalDate;
+import java.util.HashSet;
+import java.util.LinkedHashSet;
+import java.util.Set;
+
+public class Bootcamp {
+    private String name;
+    private String description;
+    private final LocalDate initialDate = LocalDate.now();
+    private final LocalDate finalDate = initialDate.plusDays(45);
+    private Set<Dev> signedDevs = new HashSet<>();
+    private Set<Content> contentList = new LinkedHashSet<>();
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public LocalDate getInitialDate() {
+        return initialDate;
+    }
+
+    public LocalDate getFinalDate() {
+        return finalDate;
+    }
+
+    public Set<Dev> getSignedDevs() {
+        return signedDevs;
+    }
+
+    public void setSignedDevs(Set<Dev> signedDevs) {
+        this.signedDevs = signedDevs;
+    }
+
+    public Set<Content> getContentList() {
+        return contentList;
+    }
+
+    public void setContentList(Set<Content> contentList) {
+        this.contentList = contentList;
+    }
+
+    @Override
+    public int hashCode() {
+        final int prime = 31;
+        int result = 1;
+        result = prime * result + ((name == null) ? 0 : name.hashCode());
+        result = prime * result + ((description == null) ? 0 : description.hashCode());
+        result = prime * result + ((initialDate == null) ? 0 : initialDate.hashCode());
+        result = prime * result + ((finalDate == null) ? 0 : finalDate.hashCode());
+        result = prime * result + ((signedDevs == null) ? 0 : signedDevs.hashCode());
+        result = prime * result + ((contentList == null) ? 0 : contentList.hashCode());
+        return result;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj)
+            return true;
+        if (obj == null)
+            return false;
+        if (getClass() != obj.getClass())
+            return false;
+        Bootcamp other = (Bootcamp) obj;
+        if (name == null) {
+            if (other.name != null)
+                return false;
+        } else if (!name.equals(other.name))
+            return false;
+        if (description == null) {
+            if (other.description != null)
+                return false;
+        } else if (!description.equals(other.description))
+            return false;
+        if (initialDate == null) {
+            if (other.initialDate != null)
+                return false;
+        } else if (!initialDate.equals(other.initialDate))
+            return false;
+        if (finalDate == null) {
+            if (other.finalDate != null)
+                return false;
+        } else if (!finalDate.equals(other.finalDate))
+            return false;
+        if (signedDevs == null) {
+            if (other.signedDevs != null)
+                return false;
+        } else if (!signedDevs.equals(other.signedDevs))
+            return false;
+        if (contentList == null) {
+            if (other.contentList != null)
+                return false;
+        } else if (!contentList.equals(other.contentList))
+            return false;
+        return true;
+    }
+
+}
