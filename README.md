@@ -53,11 +53,6 @@ O projeto utiliza **diagrama de classes UML**, modelado com a sintaxe **Mermaid*
 
 ---
 
-Claro 🙂
-Vou deixar com mais **impacto**, mantendo um tom técnico, mas mais envolvente.
-
----
-
 ### 4. 💳 Banco Digital (POO)
 
 Desafio desenvolvido para **consolidar os principais conceitos de Programação Orientada a Objetos**, por meio da implementação das regras básicas de funcionamento de um **banco digital**.
@@ -75,17 +70,6 @@ Durante o desenvolvimento, foram simuladas operações bancárias essenciais, ap
 
 📂 **Caminho:** `/4. banco-digital-poo`
 📌 **Status:** Finalizado ✅
-
----
-
-Se quiser, posso:
-
-- deixar mais **formal (estilo documentação técnica)**
-- deixar mais **casual (estilo GitHub portfolio)**
-- adaptar para **README de projeto**
-- ou enriquecer com **exemplos de classes/funcionalidades**
-
-Só dizer o objetivo 👍
 
 ---
 
