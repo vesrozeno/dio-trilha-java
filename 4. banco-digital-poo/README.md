@@ -1,4 +1,4 @@
-# 4. 💳 Banco Digital (POO)
+# 💳 Banco Digital (POO)
 
 Desafio desenvolvido para **consolidar os principais conceitos de Programação Orientada a Objetos**, por meio da implementação das regras básicas de funcionamento de um **banco digital**.
 O foco do projeto foi transformar conceitos teóricos em **soluções práticas**, priorizando organização, reutilização de código e clareza na modelagem do domínio.

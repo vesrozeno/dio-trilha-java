@@ -7,6 +7,3 @@ Um projeto simples criado para praticar os conceitos básicos de entrada e saíd
 - Leitura de dados com `Scanner`
 - Exibição de mensagens com `System.out`
 - Manipulação de strings e números
-
-📂 Caminho: `/conta-banco`  
-📌 Status: Finalizado

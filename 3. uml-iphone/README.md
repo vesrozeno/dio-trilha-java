@@ -53,6 +53,3 @@ Sendo assim, uma classe `IPhone` implementa as 3 interfaces, enquanto uma classe
 - Diagrama de Classes UML
 - Separação de responsabilidades
 - Boas práticas de modelagem
-
-📂 Caminho: `/uml-iphone`  
-📌 Status: Finalizado
