@@ -42,7 +42,7 @@ Isso equivale, em Java, ao uso da palavra-chave `implements`.
 
 Sendo assim, uma classe `IPhone` implementa as 3 interfaces, enquanto uma classe `Safari`, `IPod` ou `Mobile Phone` implementariam apenas uma das três.
 
-![Diagrama](https://github.com/vesrozeno/dio-trilha-java/blob/main/uml-iphone/images/uml-iphone.png?raw=true)
+![Diagrama](https://raw.githubusercontent.com/vesrozeno/dio-trilha-java/refs/heads/main/3.%20uml-iphone/images/uml-iphone.png)
 
 ## 📚 Conceitos Trabalhados
 
